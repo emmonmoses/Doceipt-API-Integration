@@ -1,10 +1,4 @@
 <?php
-// PRODUCTION
-// $host = "192.168.100.227";
-// $username = "gibson_collage_user";
-// $password = "gibson_collage_user";
-// $db_name = "dandiboru";
-
 // DEVELOPMENT
 $host = "localhost";
 $username = "root";
