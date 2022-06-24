@@ -7,9 +7,11 @@ class Contact
     public $relationship;
     public $emails;
     public $phoneNumbers;
-    public $primaryEmail;
-    public $primaryPhone;
-    
+// public $primaryEmail;
+// public $primaryPhone;
+// public $addressLine1;
+
+
 }
 
 ?>
